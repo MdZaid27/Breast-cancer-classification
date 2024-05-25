@@ -12,7 +12,8 @@ The project uses the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://arc
 - NumPy
 - Pandas
 - Scikit-learn
-- TensorFlow (or any other deep learning library)
+- TensorFlow
+- Keras
 - Matplotlib
 - Seaborn
 
@@ -69,7 +70,3 @@ The project follows these steps:
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
